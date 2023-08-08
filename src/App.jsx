@@ -3,7 +3,10 @@ import React from 'react'
 const App = () => {
   return (
 	<div>
-	App
+		<h1>
+		if(j==k)
+           cnt++;
+		</h1>
 	</div>
   )
 }
